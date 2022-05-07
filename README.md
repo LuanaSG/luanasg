@@ -1,6 +1,5 @@
 ### Olá!! Sou a Luana 👋
 ### Hi!! My name is Luana 👋
-### E-mail: luana.souza.galvao@gmail.com
 
 
 <div align="center">
