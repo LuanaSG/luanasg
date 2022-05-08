@@ -1,5 +1,4 @@
-### Olá!! Sou a Luana 👋
-### Hi!! My name is Luana 👋
+### Olá!👋
 
 ##
 
